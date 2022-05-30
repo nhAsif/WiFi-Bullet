@@ -1,1 +1,1 @@
-sudo python oneshot.py -i wlan0 --iface-down -K
+sudo python script.py -i wlan0 --iface-down -K
